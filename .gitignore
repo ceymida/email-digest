@@ -1,0 +1,11 @@
+# Gizli yapılandırma
+.env
+
+# Çalışma zamanında üretilen dosyalar
+logs/
+reports/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
